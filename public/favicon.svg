@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#0F1113"/>
+
+  <!-- Truck body (cargo box) -->
+  <rect x="8" y="20" width="30" height="20" rx="3" fill="#6D0F26"/>
+
+  <!-- Truck cab -->
+  <path d="M38 28 L38 40 L56 40 L56 32 L50 24 L38 24 Z" fill="#6D0F26"/>
+
+  <!-- Cab window -->
+  <path d="M40 26 L50 26 L54 31 L40 31 Z" fill="#0F1113" opacity="0.8"/>
+
+  <!-- Cargo box line detail -->
+  <line x1="23" y1="20" x2="23" y2="40" stroke="#0F1113" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Wheels -->
+  <circle cx="18" cy="42" r="5" fill="#1F2937"/>
+  <circle cx="18" cy="42" r="2.5" fill="#D7192D"/>
+  <circle cx="46" cy="42" r="5" fill="#1F2937"/>
+  <circle cx="46" cy="42" r="2.5" fill="#D7192D"/>
+
+  <!-- Ground line -->
+  <line x1="6" y1="47" x2="58" y2="47" stroke="white" stroke-width="1" opacity="0.15"/>
+
+  <!-- GC letter mark inside cargo -->
+  <text x="18" y="34" font-family="Arial Black, sans-serif" font-size="11" font-weight="900" fill="white" letter-spacing="-0.5">GC</text>
+</svg>

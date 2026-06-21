@@ -1,0 +1,1164 @@
+{
+  "navbar": {
+    "services": [
+      {
+        "title": "RESTORATION",
+        "description": "24/7 emergency response for water, fire, and storm damage.",
+        "icon": "Home",
+        "items": [
+          "Water Damage",
+          "Fire Damage",
+          "Storm Damage",
+          "Reconstruction"
+        ],
+        "features": [
+          "24/7 Emergency Response",
+          "On Site in Under 60 Min",
+          "IICRC Certified"
+        ]
+      },
+      {
+        "title": "CONSTRUCTION",
+        "description": "Residential and commercial construction, remodels, and property improvements.",
+        "icon": "ClipboardCheck",
+        "items": [
+          "Residential Construction",
+          "Commercial Construction",
+          "Reconstruction",
+          "Remodels"
+        ],
+        "features": [
+          "ICC Certified",
+          "Licensed & Insured",
+          "Family Owned & Operated"
+        ]
+      },
+      {
+        "title": "COMMERCIAL SERVICES",
+        "description": "Large-scale restoration and construction for commercial properties.",
+        "icon": "Sun",
+        "items": [
+          "Commercial Restoration",
+          "Commercial Construction",
+          "Tenant Improvements",
+          "Emergency Response"
+        ],
+        "features": [
+          "BBB Accredited Business",
+          "American Red Cross Partner",
+          "Chamber Member"
+        ]
+      }
+    ],
+    "companyLinks": [
+      {
+        "label": "Restoration",
+        "href": "#restoration",
+        "icon": "Users"
+      },
+      {
+        "label": "Construction",
+        "href": "#construction",
+        "icon": "Briefcase"
+      },
+      {
+        "label": "Service Areas",
+        "href": "#service-areas",
+        "icon": "FileText"
+      }
+    ],
+    "stats": [
+      {
+        "value": "Colorado Front Range",
+        "label": "Service Area",
+        "icon": "MapPin"
+      },
+      {
+        "value": "24/7",
+        "label": "Emergency Response",
+        "icon": "Clock"
+      },
+      {
+        "value": "Under 60 Min",
+        "label": "On-Site Response",
+        "icon": "Star"
+      },
+      {
+        "value": "IICRC & ICC",
+        "label": "Certified",
+        "icon": "Shield"
+      }
+    ],
+    "cta": {
+      "title": "24/7 Emergency Response",
+      "description": "On site in under 60 minutes. Call now for immediate restoration and construction support across Colorado's Front Range.",
+      "buttonText": "Call Now",
+      "buttonLink": "tel:+13034097309"
+    }
+  },
+  "hero": {
+    "badge": "One Trusted Company. Two Powerful Divisions.",
+    "headlines": [
+      "Damage Done?",
+      "We're On It.",
+      "Under 60 Min • 24/7 • Front Range"
+    ],
+    "description": "Your trusted partner for disaster restoration and construction services across Colorado. Garnet Companies delivers expert restoration, reconstruction, and construction solutions for residential and commercial properties throughout Colorado's Front Range.",
+    "buttons": [
+      {
+        "text": "Call Now",
+        "href": "tel:+13034097309",
+        "primary": true,
+        "icon": "FiArrowRight"
+      },
+      {
+        "text": "Request Inspection",
+        "href": "#contact",
+        "primary": false,
+        "icon": "FiArrowRight"
+      }
+    ],
+    "stats": [
+      {
+        "value": "24/7 Emergency",
+        "label": "Response",
+        "icon": "FiMapPin"
+      },
+      {
+        "value": "Under 60 Min",
+        "label": "On-Site",
+        "icon": "RiBuildingLine"
+      },
+      {
+        "value": "Front Range",
+        "label": "Colorado",
+        "icon": "FiShield"
+      },
+      {
+        "value": "IICRC & ICC",
+        "label": "Certified",
+        "icon": "FiMessageSquare"
+      }
+    ]
+  },
+  "about": {
+    "badge": "One Trusted Company",
+    "headline": {
+      "prefix": "Welcome to",
+      "highlight": "Garnet Companies",
+      "suffix": ""
+    },
+    "description": "Your trusted partner for disaster restoration and construction services across Colorado. We deliver expert restoration, reconstruction, and construction solutions for residential and commercial properties throughout <span class=\"font-semibold text-primary\">Colorado's Front Range</span>. One trusted company with two powerful divisions — Garnet Restoration and Garnet Construction — ready to respond when you need us most.",
+    "image": {
+      "src": "GarnetRestorationTeam",
+      "alt": "Garnet restoration team on a commercial job site in Colorado",
+      "badge": "Two Powerful Divisions"
+    },
+    "stats": [
+      {
+        "value": "24/7",
+        "suffix": "",
+        "label": "Emergency Response"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Client Commitment"
+      },
+      {
+        "value": "Under 60 Min",
+        "suffix": "",
+        "label": "On-Site Response"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "CALL NOW",
+        "href": "tel:+13034097309",
+        "primary": true
+      },
+      {
+        "text": "REQUEST INSPECTION",
+        "href": "#contact",
+        "primary": false
+      }
+    ],
+    "trustBadges": {
+      "founded": "Family Owned & Operated",
+      "headquarters": "Colorado Front Range"
+    }
+  },
+  "aboutStory": {
+    "badge": "Our Story",
+    "headline": {
+      "prefix": "One Trusted Company,",
+      "highlight": "Two Powerful Divisions",
+      "suffix": ""
+    },
+    "description": [
+      "Garnet Companies was founded on a simple but powerful idea: disaster restoration and quality construction shouldn't require two separate companies. Property owners facing water damage, fire damage, or storm destruction were forced to juggle multiple contractors — one to clean up the mess, another to rebuild. It was inefficient, stressful, and slow. We knew there had to be a better way.",
+      "That's why we built Garnet Companies with two powerful divisions under one roof. Garnet Restoration handles the emergency — 24/7 response, on site in under 60 minutes, IICRC certified technicians ready to mitigate water, fire, and storm damage fast. Garnet Construction takes it from there — residential and commercial reconstruction, remodels, and property improvements delivered with ICC certified expertise. One call. One team. One seamless process from disaster to done.",
+      "Today, Garnet Companies proudly serves homeowners, businesses, and property managers across Colorado's Front Range — from Denver and Boulder to Fort Collins, Thornton, Westminster, Brighton, Longmont, Broomfield, Aurora, Commerce City, Estes Park, Lyons, and beyond. We're family owned and operated, BBB accredited, American Red Cross partners, and active Chamber members. When disaster strikes, we're the ones who show up. Fast."
+    ],
+    "image": {
+      "src": "GarnetCompaniesFounder",
+      "alt": "Garnet Companies leadership team",
+      "badge": "Family Owned & Operated"
+    },
+    "stats": [
+      {
+        "value": "Colorado",
+        "suffix": " Front Range",
+        "label": "Service Area"
+      },
+      {
+        "value": "Two",
+        "suffix": " Divisions",
+        "label": "One Company"
+      },
+      {
+        "value": "24/7",
+        "suffix": "",
+        "label": "Emergency Response"
+      }
+    ]
+  },
+  "services": {
+    "badge": "Our Services",
+    "headline": {
+      "prefix": "Two Powerful Divisions,",
+      "highlight": "One Trusted Team",
+      "suffix": ""
+    },
+    "description": [
+      "Garnet Companies delivers expert restoration and construction services through two specialized divisions. From emergency water damage response to complete commercial construction, we handle it all.",
+      "IICRC certified restoration. ICC certified construction. BBB accredited. Family owned and operated. One call does it all."
+    ],
+    "stats": [
+      {
+        "value": 2,
+        "suffix": "",
+        "label": "Divisions"
+      },
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": "Core Services"
+      },
+      {
+        "value": "24/7",
+        "suffix": "",
+        "label": "Emergency Response"
+      }
+    ],
+    "services": [
+      {
+        "number": "01",
+        "title": "Water Damage Restoration",
+        "description": "Emergency water extraction, drying, and full restoration. On site in under 60 minutes for qualifying emergencies.",
+        "icon": "Home",
+        "tag": "Emergency",
+        "features": [
+          "24/7 Response",
+          "IICRC Certified",
+          "Insurance Support"
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Fire Damage Restoration",
+        "description": "Complete fire and smoke damage restoration including structural assessment, cleanup, and reconstruction.",
+        "icon": "Building2",
+        "tag": "Emergency",
+        "features": [
+          "Smoke & Soot Removal",
+          "Structural Assessment",
+          "Full Reconstruction"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Storm Damage Restoration",
+        "description": "Rapid response for hail, wind, and storm damage. Emergency tarping, board-up, and complete property restoration.",
+        "icon": "Hammer",
+        "tag": "Emergency",
+        "features": [
+          "Emergency Board-Up",
+          "Hail & Wind Damage",
+          "Insurance Claims Help"
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Reconstruction",
+        "description": "Full property reconstruction after disaster damage. Seamless transition from restoration to rebuild with one trusted team.",
+        "icon": "Shield",
+        "tag": "Construction",
+        "features": [
+          "ICC Certified",
+          "Licensed & Insured",
+          "Single Point of Contact"
+        ]
+      },
+      {
+        "number": "05",
+        "title": "Commercial Construction",
+        "description": "New construction, tenant improvements, and large-scale commercial projects with minimal business disruption.",
+        "icon": "Droplets",
+        "tag": "Construction",
+        "features": [
+          "Tenant Improvements",
+          "Design-Build",
+          "Commercial Expertise"
+        ]
+      },
+      {
+        "number": "06",
+        "title": "Residential Construction",
+        "description": "Custom homes, remodels, additions, and property improvements built with craftsmanship and attention to detail.",
+        "icon": "Wrench",
+        "tag": "Construction",
+        "features": [
+          "Custom Homes",
+          "Remodels & Additions",
+          "Family Owned"
+        ]
+      },
+      {
+        "number": "07",
+        "title": "Emergency Response",
+        "description": "24/7 dispatch for water, fire, and storm emergencies. Our team is on site in under 60 minutes across the Front Range.",
+        "icon": "Tool",
+        "tag": "24/7",
+        "features": [
+          "Under 60 Min Response",
+          "24/7 Availability",
+          "Call (303) 409-7309"
+        ]
+      },
+      {
+        "number": "08",
+        "title": "Insurance Claim Assistance",
+        "description": "We work directly with your insurance company to streamline claims and reduce your stress during the restoration process.",
+        "icon": "Layers",
+        "tag": "Support",
+        "features": [
+          "Direct Insurance Billing",
+          "Claim Documentation",
+          "Stress-Free Process"
+        ]
+      },
+      {
+        "number": "09",
+        "title": "Property Inspections",
+        "description": "Schedule a professional property assessment for damage evaluation, construction planning, or preventative inspection.",
+        "icon": "Palette",
+        "tag": "Assessment",
+        "features": [
+          "Free Consultations",
+          "Detailed Reports",
+          "Expert Recommendations"
+        ]
+      },
+      {
+        "number": "10",
+        "title": "Commercial Restoration",
+        "description": "Large-scale commercial water, fire, and storm damage restoration with minimal downtime for your business operations.",
+        "icon": "Grid",
+        "tag": "Commercial",
+        "features": [
+          "Business Continuity",
+          "Large-Scale Response",
+          "BBB Accredited"
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Not Sure Which Division You Need?",
+      "description": "Call us anytime — day or night. We'll assess your situation and dispatch the right team immediately.",
+      "buttonText": "Call Now",
+      "buttonLink": "tel:+13034097309"
+    }
+  },
+  "whyChooseUs": {
+    "section": {
+      "badge": "WHY CHOOSE US",
+      "headline": "One Call. Two Divisions. <span class=\"text-primary\">Total Peace of Mind.</span>",
+      "description": "When disaster strikes, you need a team that responds fast, works efficiently, and handles everything from cleanup to reconstruction — without the headache of multiple contractors."
+    },
+    "features": [
+      {
+        "icon": "Award",
+        "title": "IICRC & ICC Certified",
+        "description": "Industry-leading certifications in both restoration and construction. You get proven expertise across both divisions."
+      },
+      {
+        "icon": "MessageSquare",
+        "title": "24/7 Emergency Response",
+        "description": "On site in under 60 minutes for qualifying emergencies. Day or night, weekends, and holidays — we answer the call."
+      },
+      {
+        "icon": "Globe",
+        "title": "BBB Accredited & American Red Cross Partner",
+        "description": "Trusted by industry organizations and community partners across Colorado's Front Range."
+      },
+      {
+        "icon": "Clock",
+        "title": "Seamless Restoration-to-Construction",
+        "description": "No juggling multiple contractors. One company handles your entire project from emergency response to final reconstruction."
+      },
+      {
+        "icon": "Shield",
+        "title": "Licensed & Fully Insured",
+        "description": "Full licensing and comprehensive insurance coverage for complete peace of mind on every project."
+      },
+      {
+        "icon": "Check",
+        "title": "Family Owned & Chamber Member",
+        "description": "Locally rooted in Colorado communities. We treat every property like it belongs to our own family."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Front Range",
+        "suffix": "",
+        "label": "Service Area"
+      },
+      {
+        "value": "24/7",
+        "suffix": "",
+        "label": "Emergency Response"
+      },
+      {
+        "value": "Under 60 Min",
+        "suffix": "",
+        "label": "On-Site Response"
+      },
+      {
+        "value": "IICRC & ICC",
+        "suffix": "",
+        "label": "Certified"
+      }
+    ],
+    "cta": {
+      "badge": "GET STARTED",
+      "title": "Need Help <span class=\"\">Now?</span>",
+      "description": "Call Garnet Companies for immediate emergency response. (303) 409-7309",
+      "trustBadges": [
+        "24/7 Emergency Response",
+        "On Site Under 60 Min",
+        "IICRC & ICC Certified"
+      ],
+      "buttons": [
+        {
+          "text": "Call Now",
+          "href": "tel:+13034097309",
+          "primary": true
+        },
+        {
+          "text": "Request Inspection",
+          "href": "#contact",
+          "primary": false
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "section": {
+      "badge": "Where We Work",
+      "headline": "Serving Colorado's <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-primary to-primary/70\">Front Range</span>"
+    },
+    "projects": [
+      {
+        "number": "01",
+        "title": "Denver Water Damage Restoration",
+        "category": "Restoration",
+        "image": "portfolio1",
+        "location": "Denver, CO",
+        "year": "2025",
+        "accent": "from-primary to-primary/80",
+        "scope": "Emergency Water Extraction",
+        "desc": "On site in 45 minutes. Full water mitigation and structural drying completed."
+      },
+      {
+        "number": "02",
+        "title": "Boulder Fire Damage Reconstruction",
+        "category": "Restoration & Construction",
+        "image": "portfolio2",
+        "location": "Boulder, CO",
+        "year": "2025",
+        "accent": "from-primary to-primary/70",
+        "scope": "Fire Restoration & Rebuild",
+        "desc": "Complete smoke remediation and full kitchen reconstruction after fire damage."
+      },
+      {
+        "number": "03",
+        "title": "Fort Collins Commercial Build-Out",
+        "category": "Construction",
+        "image": "portfolio3",
+        "location": "Fort Collins, CO",
+        "year": "2024",
+        "accent": "from-primary/90 to-primary/60",
+        "scope": "Tenant Improvement",
+        "desc": "Full commercial interior build-out with minimal business disruption."
+      },
+      {
+        "number": "04",
+        "title": "Thornton Storm Damage Response",
+        "category": "Restoration",
+        "image": "portfolio4",
+        "location": "Thornton, CO",
+        "year": "2025",
+        "accent": "from-primary to-primary/80",
+        "scope": "Hail & Wind Damage",
+        "desc": "Emergency tarping, board-up, and complete roof and siding restoration."
+      },
+      {
+        "number": "05",
+        "title": "Westminster Residential Remodel",
+        "category": "Construction",
+        "image": "portfolio5",
+        "location": "Westminster, CO",
+        "year": "2024",
+        "accent": "from-primary/80 to-primary/60",
+        "scope": "Full Home Remodel",
+        "desc": "Complete kitchen and bathroom remodel with custom finishes throughout."
+      }
+    ],
+    "button": {
+      "text": "View Service Area Map",
+      "link": "#service-areas"
+    }
+  },
+  "testimonials": {
+    "section": {
+      "badge": "Client Testimonials",
+      "headline": "What Our Customers Say",
+      "description": "Hear from homeowners and businesses who trusted Garnet Companies for restoration and construction across Colorado's Front Range.",
+      "featured": "Trusted Restoration & Construction Across Colorado's Front Range"
+    },
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Robert H.",
+        "position": "Homeowner",
+        "company": "Denver",
+        "avatar": "RH",
+        "text": "Garnet responded to our basement flood in under an hour. Their restoration team was professional, fast, and handled everything — including working directly with our insurance."
+      },
+      {
+        "id": 2,
+        "name": "Sarah M.",
+        "position": "Commercial Property Manager",
+        "company": "Boulder",
+        "avatar": "SM",
+        "text": "We've used Garnet for multiple commercial projects. Their dual restoration and construction divisions mean we never have to coordinate between contractors. One call does it all."
+      },
+      {
+        "id": 3,
+        "name": "Mike D.",
+        "position": "Business Owner",
+        "company": "Fort Collins",
+        "avatar": "MD",
+        "text": "Fire damage at our restaurant could have shut us down for months. Garnet handled the entire restoration and reconstruction — we were back open in weeks, not months."
+      },
+      {
+        "id": 4,
+        "name": "Jennifer C.",
+        "position": "Homeowner",
+        "company": "Thornton",
+        "avatar": "JC",
+        "text": "Hail storm destroyed our roof and siding. Garnet was on site the next morning, handled the emergency tarping, and managed the entire insurance claim. Incredible service."
+      },
+      {
+        "id": 5,
+        "name": "Garnet Companies Team",
+        "position": "Family Owned & Operated",
+        "company": "Garnet Companies",
+        "avatar": "GC",
+        "text": "We built Garnet Companies to give Colorado property owners a single trusted partner for both restoration and construction. When disaster strikes, you shouldn't have to juggle multiple companies. One call. One team. Done right."
+      }
+    ],
+    "videos": [
+      {
+        "id": "v1",
+        "videoId": "dQw4w9WgXcQ",
+        "title": "Emergency Water Damage Response",
+        "name": "Robert H."
+      },
+      {
+        "id": "v2",
+        "videoId": "dQw4w9WgXcQ",
+        "title": "Commercial Fire Restoration",
+        "name": "Mike D."
+      },
+      {
+        "id": "v3",
+        "videoId": "dQw4w9WgXcQ",
+        "title": "Storm Damage Emergency Response",
+        "name": "Jennifer C."
+      },
+      {
+        "id": "v4",
+        "videoId": "dQw4w9WgXcQ",
+        "title": "Restoration to Reconstruction Process",
+        "name": "Garnet Companies Team"
+      }
+    ],
+    "stats": {
+      "reviewPlatform": "Google Reviews",
+      "satisfactionFocus": "100% Client Commitment",
+      "totalVideos": 12
+    }
+  },
+  "faq": {
+    "section": {
+      "badge": "Knowledge Base",
+      "headline": "Frequently Asked Questions",
+      "description": "Expert answers about our restoration, construction, and emergency response services."
+    },
+    "categories": [
+      {
+        "id": "all",
+        "label": "All Questions",
+        "icon": null
+      },
+      {
+        "id": "restoration",
+        "label": "Restoration",
+        "icon": "Home"
+      },
+      {
+        "id": "construction",
+        "label": "Construction",
+        "icon": "Hammer"
+      },
+      {
+        "id": "emergency",
+        "label": "Emergency",
+        "icon": "Shield"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "category": "emergency",
+        "question": "How fast can you respond to an emergency?",
+        "answer": "We're on site in under 60 minutes for qualifying emergencies across Colorado's Front Range. Call (303) 409-7309 anytime — 24/7/365.",
+        "metadata": [
+          {
+            "label": "Response Time",
+            "value": "Under 60 minutes"
+          },
+          {
+            "label": "Availability",
+            "value": "24/7/365"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "restoration",
+        "question": "Do you work with insurance companies?",
+        "answer": "Yes. We work directly with your insurance provider to streamline claims, handle documentation, and reduce your stress throughout the restoration process.",
+        "metadata": [
+          {
+            "label": "Insurance",
+            "value": "Direct billing available"
+          },
+          {
+            "label": "Claims Help",
+            "value": "Full documentation"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "emergency",
+        "question": "What areas do you serve?",
+        "answer": "Colorado's Front Range including Denver, Boulder, Fort Collins, Thornton, Westminster, Brighton, Longmont, Broomfield, Aurora, Commerce City, Estes Park, Lyons, and surrounding communities.",
+        "metadata": [
+          {
+            "label": "Primary",
+            "value": "Front Range Colorado"
+          },
+          {
+            "label": "Response",
+            "value": "24/7 throughout region"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "restoration",
+        "question": "What types of damage do you restore?",
+        "answer": "Water damage, fire damage, smoke damage, storm damage, hail damage, wind damage, and all related structural restoration.",
+        "metadata": [
+          {
+            "label": "Water",
+            "value": "Extraction & drying"
+          },
+          {
+            "label": "Fire & Storm",
+            "value": "Full restoration"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "construction",
+        "question": "Do you handle both residential and commercial construction?",
+        "answer": "Yes. Garnet Construction handles residential and commercial projects including custom homes, remodels, tenant improvements, and full commercial build-outs.",
+        "metadata": [
+          {
+            "label": "Residential",
+            "value": "Custom homes & remodels"
+          },
+          {
+            "label": "Commercial",
+            "value": "Build-outs & TI"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "restoration",
+        "question": "Are your technicians certified?",
+        "answer": "Yes. Garnet Restoration technicians are IICRC certified. Garnet Construction teams are ICC certified. Both divisions are fully licensed and insured.",
+        "metadata": [
+          {
+            "label": "Restoration",
+            "value": "IICRC Certified"
+          },
+          {
+            "label": "Construction",
+            "value": "ICC Certified"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "emergency",
+        "question": "What should I do while waiting for your team?",
+        "answer": "Ensure your safety first. If safe, shut off water sources and move valuables away from affected areas. Our team will guide you through next steps upon arrival.",
+        "metadata": [
+          {
+            "label": "Safety",
+            "value": "First priority"
+          },
+          {
+            "label": "Guidance",
+            "value": "Provided on arrival"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "construction",
+        "question": "How does the restoration-to-construction process work?",
+        "answer": "Seamlessly. After restoration is complete, our construction division takes over — no new contractor, no new estimates, no delays. One company, start to finish.",
+        "metadata": [
+          {
+            "label": "Process",
+            "value": "Seamless handoff"
+          },
+          {
+            "label": "Contact",
+            "value": "Single point throughout"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "restoration",
+        "question": "Do you offer free inspections?",
+        "answer": "Yes. Schedule a professional property assessment online or by calling (303) 409-7309. We'll evaluate the damage and provide expert recommendations.",
+        "metadata": [
+          {
+            "label": "Inspection",
+            "value": "Free consultation"
+          },
+          {
+            "label": "Schedule",
+            "value": "Online or by phone"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "construction",
+        "question": "Is Garnet Companies family owned?",
+        "answer": "Yes. We're family owned and operated, BBB accredited, American Red Cross partners, and active Chamber members in Colorado communities.",
+        "metadata": [
+          {
+            "label": "Ownership",
+            "value": "Family owned"
+          },
+          {
+            "label": "Accreditations",
+            "value": "BBB, Red Cross, Chamber"
+          }
+        ]
+      }
+    ],
+    "knowledgeCard": {
+      "title": "Still Have Questions?",
+      "description": "Our restoration and construction specialists are ready to help. Call anytime — 24/7 emergency response available.",
+      "buttons": [
+        {
+          "text": "Call Now",
+          "href": "tel:+13034097309",
+          "primary": true
+        },
+        {
+          "text": "Request Inspection",
+          "href": "#contact",
+          "primary": false
+        }
+      ]
+    }
+  },
+  "quote": {
+    "section": {
+      "badge": "SCHEDULE TODAY",
+      "headline": "Request Your <span class=\"font-black text-transparent bg-clip-text bg-gradient-to-r from-primary via-primary to-primary/80\">Inspection Today</span>",
+      "description": "Share your project details and our team will follow up promptly at connect@garnetcompanies.com with expert recommendations."
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Water Damage",
+        "desc": "Emergency extraction & drying",
+        "icon": "⌗"
+      },
+      {
+        "id": 2,
+        "title": "Fire Damage",
+        "desc": "Smoke & soot restoration",
+        "icon": "⎔"
+      },
+      {
+        "id": 3,
+        "title": "Storm Damage",
+        "desc": "Hail, wind & emergency board-up",
+        "icon": "⌖"
+      },
+      {
+        "id": 4,
+        "title": "Reconstruction",
+        "desc": "Rebuild after disaster",
+        "icon": "⌘"
+      },
+      {
+        "id": 5,
+        "title": "Commercial Construction",
+        "desc": "Build-outs & tenant improvements",
+        "icon": "⚡"
+      },
+      {
+        "id": 6,
+        "title": "Residential Construction",
+        "desc": "Custom homes & remodels",
+        "icon": "◈"
+      }
+    ],
+    "projectTypes": [
+      {
+        "value": "residential",
+        "label": "Residential"
+      },
+      {
+        "value": "commercial",
+        "label": "Commercial"
+      },
+      {
+        "value": "emergency",
+        "label": "Emergency"
+      },
+      {
+        "value": "inspection",
+        "label": "Inspection Only"
+      }
+    ],
+    "timelines": [
+      {
+        "value": "emergency",
+        "label": "Emergency (24/7 Response)"
+      },
+      {
+        "value": "urgent",
+        "label": "Urgent (Within 24 Hours)"
+      },
+      {
+        "value": "standard",
+        "label": "Standard (1-2 Weeks)"
+      },
+      {
+        "value": "planned",
+        "label": "Planned (1-3 Months)"
+      }
+    ],
+    "email": "connect@garnetcompanies.com",
+    "success": {
+      "title": "Inspection Request Received",
+      "message": "Your project details have been sent to the team at Garnet Companies.",
+      "response": "We'll follow up shortly at connect@garnetcompanies.com with next steps. For emergencies, call (303) 409-7309 immediately.",
+      "buttonText": "Close"
+    }
+  },
+  "footer": {
+    "company": {
+      "name": "Garnet Companies",
+      "tagline": "ONE TRUSTED COMPANY. TWO POWERFUL DIVISIONS.",
+      "description": "24/7 emergency restoration and expert construction services for residential and commercial properties across Colorado's Front Range. IICRC certified. ICC certified. Family owned and operated."
+    },
+    "services": {
+      "title": "Our Services",
+      "main": [
+        {
+          "label": "Water Damage Restoration",
+          "href": "/water-damage",
+          "icon": "Home"
+        },
+        {
+          "label": "Fire Damage Restoration",
+          "href": "/fire-damage",
+          "icon": "Building2"
+        },
+        {
+          "label": "Storm Damage Restoration",
+          "href": "/storm-damage",
+          "icon": "Hammer"
+        },
+        {
+          "label": "Reconstruction",
+          "href": "/reconstruction",
+          "icon": "Shield"
+        },
+        {
+          "label": "Commercial Construction",
+          "href": "/commercial-construction",
+          "icon": "Droplets"
+        },
+        {
+          "label": "Residential Construction",
+          "href": "/residential-construction",
+          "icon": "Wrench"
+        },
+        {
+          "label": "Emergency Response",
+          "href": "/emergency",
+          "icon": "Tool"
+        },
+        {
+          "label": "Insurance Claim Assistance",
+          "href": "/insurance",
+          "icon": "Layers"
+        },
+        {
+          "label": "Property Inspections",
+          "href": "/inspections",
+          "icon": "Palette"
+        },
+        {
+          "label": "Commercial Restoration",
+          "href": "/commercial-restoration",
+          "icon": "Grid"
+        }
+      ],
+      "materials": {
+        "title": "Service Areas",
+        "items": [
+          {
+            "label": "Denver, CO",
+            "href": "/denver"
+          },
+          {
+            "label": "Boulder, CO",
+            "href": "/boulder"
+          },
+          {
+            "label": "Fort Collins, CO",
+            "href": "/fort-collins"
+          },
+          {
+            "label": "Thornton, CO",
+            "href": "/thornton"
+          },
+          {
+            "label": "Westminster, CO",
+            "href": "/westminster"
+          },
+          {
+            "label": "Brighton, CO",
+            "href": "/brighton"
+          },
+          {
+            "label": "Longmont, CO",
+            "href": "/longmont"
+          },
+          {
+            "label": "Broomfield, CO",
+            "href": "/broomfield"
+          },
+          {
+            "label": "Aurora, CO",
+            "href": "/aurora"
+          },
+          {
+            "label": "Estes Park & Lyons",
+            "href": "/estes-park-lyons"
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "connect@garnetcompanies.com",
+      "phone": "+1 (303) 409-7309",
+      "address": "Colorado Front Range",
+      "emergency": "24/7 Emergency Line: (303) 409-7309",
+      "areas": "Denver • Boulder • Fort Collins • Front Range"
+    },
+    "certifications": [
+      {
+        "cert": "IICRC",
+        "number": "Certified",
+        "icon": "Award"
+      },
+      {
+        "cert": "ICC",
+        "number": "Certified",
+        "icon": "Shield"
+      },
+      {
+        "cert": "BBB",
+        "number": "Accredited",
+        "icon": "Check"
+      },
+      {
+        "cert": "American",
+        "number": "Red Cross",
+        "icon": "Star"
+      },
+      {
+        "cert": "Family",
+        "number": "Owned",
+        "icon": "Home"
+      },
+      {
+        "cert": "Chamber",
+        "number": "Member",
+        "icon": "Building2"
+      }
+    ],
+    "quickLinks": [
+      {
+        "label": "24/7 Emergency",
+        "href": "tel:+13034097309",
+        "icon": "Phone"
+      },
+      {
+        "label": "Request Inspection",
+        "href": "#contact",
+        "icon": "MapPin"
+      },
+      {
+        "label": "About Us",
+        "href": "#about",
+        "icon": "Users"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Email",
+        "icon": "Mail",
+        "href": "mailto:connect@garnetcompanies.com"
+      },
+      {
+        "platform": "Phone",
+        "icon": "Phone",
+        "href": "tel:+13034097309"
+      },
+      {
+        "platform": "Facebook",
+        "icon": "Facebook",
+        "href": "#"
+      },
+      {
+        "platform": "Instagram",
+        "icon": "Instagram",
+        "href": "#"
+      },
+      {
+        "platform": "LinkedIn",
+        "icon": "Linkedin",
+        "href": "#"
+      },
+      {
+        "platform": "YouTube",
+        "icon": "Youtube",
+        "href": "#"
+      },
+      {
+        "platform": "TikTok",
+        "icon": "Music",
+        "href": "#"
+      }
+    ],
+    "bottom": {
+      "copyright": "© 2026 Garnet Companies",
+      "rights": "All rights reserved",
+      "links": [
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/terms"
+        },
+        {
+          "label": "Licensed & Insured",
+          "href": "/licensing"
+        }
+      ],
+      "tagline": "ONE TRUSTED COMPANY. TWO POWERFUL DIVISIONS."
+    },
+    "marquee": {
+      "texts": [
+        "ONE TRUSTED COMPANY. TWO POWERFUL DIVISIONS.",
+        "24/7 EMERGENCY RESPONSE • ON SITE UNDER 60 MIN",
+        "IICRC CERTIFIED • ICC CERTIFIED • BBB ACCREDITED"
+      ]
+    }
+  },
+  "leadership": {
+    "section": {
+      "badge": "OUR LEADERSHIP",
+      "headline": "Committed to <span class=\"text-primary\">Colorado Communities</span>",
+      "description": "At Garnet Companies, our leadership is driven by a singular mission: to provide fast, reliable restoration and expert construction services with integrity and excellence across Colorado's Front Range."
+    },
+    "ceo": {
+      "name": "Garnet Companies Team",
+      "title": "FAMILY OWNED & OPERATED",
+      "quotes": [
+        "We built Garnet Companies because we saw property owners struggling to navigate the chaos after disaster struck. They were forced to juggle separate restoration and construction companies ."
+      ],
+      "description": [
+        "Garnet Companies was founded on a simple but powerful belief: disaster restoration and quality construction shouldn't require multiple contractors. Property owners facing water damage, fire damage, or storm destruction deserved a single trusted partner to handle everything —",
+        "",
+        "Today, Garnet Companies proudly serves homeowners, businesses, and property managers throughout Colorado's Front Range — Denver, Boulder, Fort Collins, Thornton, Westminster, Brighton, Longmont, Broomfield, Aurora, Commerce City, Estes Park, Lyons, and all surrounding communities. We're family owned and operated, BBB accredited, American Red Cross partners, and active members of our local Chambers. When disaster strikes, we're the ones who show up — fast, prepared, and ready to restore not just your property, but your peace of mind."
+      ],
+      "social": {
+        "linkedin": "#",
+        "email": "connect@garnetcompanies.com"
+      },
+      "badges": {
+        "top": "Family Owned & Operated",
+        "bottom": "Serving Colorado's Front Range"
+      },
+      "alt": "Garnet Companies Team - Family Owned & Operated"
+    }
+  }
+}
