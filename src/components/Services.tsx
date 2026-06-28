@@ -15,7 +15,7 @@ import imgResidentialConstruction from "@/assets/residentalconstrcution.jfif";
 import imgEmergencyResponse from "@/assets/emergecnyresponse.jfif";
 import imgInsuranceClaim from "@/assets/insuranceclaim.jfif";
 import imgPropertyInspection from "@/assets/propertyinspecion.jfif";
-import imgCommercialRestoration from "@/assets/commericalrestoration.jpg";
+import imgCommercialRestoration from "@/assets/commericalrestoration.webp";
 
 const serviceImageMap: Record<string, string> = {
   "01": imgWaterDamage,
@@ -93,7 +93,7 @@ const ServiceCard = memo(({
       <div className="relative h-48 overflow-hidden shrink-0 bg-gradient-to-br from-foreground/5 to-foreground/10">
         {img ? (
           <>
-            <img src={img} alt={service.title} loading="eager"
+            <img src={img} alt={service.title} loading="lazy"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 will-change-transform transform-gpu" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
           </>

@@ -53,7 +53,7 @@ const MasonryCard = forwardRef<HTMLDivElement, { project: any; index: number }>(
         <motion.img
           src={resolvedImage}
           alt={project.title}
-          loading="eager"
+          loading="lazy"
           className="w-full h-full object-cover transition-transform duration-700"
           animate={{ scale: isHovered ? 1.08 : 1 }}
         />

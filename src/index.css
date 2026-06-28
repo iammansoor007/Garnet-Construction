@@ -145,13 +145,6 @@
     /* Smoothly fade in lazy-loaded images */
     transition: opacity 0.3s ease;
   }
-  img[loading="lazy"] {
-    opacity: 0;
-  }
-  img[loading="lazy"].loaded,
-  img:not([loading]) {
-    opacity: 1;
-  }
 
   /* ─── Focus visible — accessibility without layout flicker ─── */
   :focus-visible {

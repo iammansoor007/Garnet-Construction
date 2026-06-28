@@ -851,7 +851,7 @@ const Footer = () => {
           </div>
 
           <a
-            href="https://www.dynamicdesignsagency.com"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "hsl(var(--color-border-light) / 0.2)", textDecoration: "none", transition: "color 0.2s", fontFamily: "'Montserrat', sans-serif" }}

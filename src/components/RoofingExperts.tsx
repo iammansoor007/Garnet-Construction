@@ -1,6 +1,6 @@
 import { motion, useInView, useReducedMotion } from "framer-motion";
 import { useRef, useEffect, useState, useCallback, useMemo, memo } from "react";
-import AboutImg from "@/assets/garnet_crew.png";
+import AboutImg from "@/assets/garnet_crew.webp";
 import completeData from "../src/data/completeData.json";
 
 

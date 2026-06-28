@@ -23,7 +23,7 @@ import {
   Clock,
 } from "lucide-react";
 import completeData from "../src/data/completeData.json";
-import logo from '../assets/logo.png'
+import logo from '../assets/logo.webp'
 
 const iconMap = {
   Home: () => <Home className="h-5 w-5 text-current" />,
