@@ -2,7 +2,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
 import { Home, Sun, Droplets } from "lucide-react";
 
-import heroBg from "@/assets/herobg.jpg";
+import heroBg from "@/assets/ngherogarmet.jpg";
 import {
   FiArrowRight,
   FiChevronDown,

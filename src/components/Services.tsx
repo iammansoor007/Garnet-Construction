@@ -271,7 +271,7 @@ const Services = () => {
                   {cta.title}
                 </h3>
 
-                <p className="text-base md:text-lg leading-relaxed mb-7 text-foreground/80">
+                <p className="text-base md:text-lg leading-relaxed mb-7 text-white">
                   {cta.description}
                 </p>
 
@@ -280,9 +280,9 @@ const Services = () => {
                   {["Licensed & Insured", "Locally Owned", "Free Estimates"].map((t) => (
                     <div key={t} className="flex items-center gap-2">
                       <div className="w-4 h-4 rounded-full flex items-center justify-center shrink-0" style={{ background: "rgba(255,255,255,0.08)", border: "1px solid rgba(255,255,255,0.15)" }}>
-                        <CheckCircle className="w-2.5 h-2.5" style={{ color: "hsl(var(--accent))" }} />
+                        <CheckCircle className="w-2.5 h-2.5" style={{ color: " white" }} />
                       </div>
-                      <span className="text-xs font-semibold text-foreground/80">{t}</span>
+                      <span className="text-xs font-semibold text-white">{t}</span>
                     </div>
                   ))}
                 </div>
